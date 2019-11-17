@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kattis", "Kattis\Kattis.csproj", "{38108897-FA2D-4752-9949-4D54D7E64439}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kattis.Tests", "Kattis.Tests\Kattis.Tests.csproj", "{7F2F73F7-E347-4C74-9FD9-AEAE9A21FEE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38108897-FA2D-4752-9949-4D54D7E64439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38108897-FA2D-4752-9949-4D54D7E64439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38108897-FA2D-4752-9949-4D54D7E64439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38108897-FA2D-4752-9949-4D54D7E64439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F2F73F7-E347-4C74-9FD9-AEAE9A21FEE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F2F73F7-E347-4C74-9FD9-AEAE9A21FEE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F2F73F7-E347-4C74-9FD9-AEAE9A21FEE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F2F73F7-E347-4C74-9FD9-AEAE9A21FEE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A44892A-E3FD-4120-B3F6-193FF853FEE7}
+	EndGlobalSection
+EndGlobal
